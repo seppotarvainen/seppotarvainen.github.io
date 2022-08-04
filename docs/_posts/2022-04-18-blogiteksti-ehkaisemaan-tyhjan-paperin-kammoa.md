@@ -7,6 +7,8 @@ readtime: "1min"
 
 Olen pariin otteeseen aloittanut kirjoittamaan omaa blogia, siinä kuitenkaan onnistumatta. Aina on tullut eteen joko tyhjän paperin kammo tai pelko siitä, etteivät tekstit tuo mitään uutta lukijalle. Nämä ovat kyllä edelleen läsnä, mutta osaltaan tämä blogi on itselleni harjoitus lieventää näitä pelkoja.
 
+<!-- excerpt-end -->
+
 ## Tyhjä paperi
 
 Tyhjästä paperista pääsee hyvin helposti eroon. Ota tekstieditori, kynä ja paperi, tikku ja hiekkaa tai ihan mitä vain ja ala muodostamaan lauseita. Itse aloitan  väliotsikoista, joiden alle laitan pari ajatusta. Näiden alle alkaa muotoutua yhtäkkiä lauseita, jotka välillä vaihtelevat paikkaa ja muuttavat muotoaan. Ennen pitkää siinä on kuitenkin kappaleen verran tekstiä ja sitten vain siirrytään eteenpäin.

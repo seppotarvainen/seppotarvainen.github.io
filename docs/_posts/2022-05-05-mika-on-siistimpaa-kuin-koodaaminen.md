@@ -7,7 +7,9 @@ readtime: "7min"
 
 Tiimiä ei muodosteta pizzalla, vihersmoothiella, baarireissulla, joogalla tai muullakaan järjestäytyneellä ryhmäytymisellä. Nämä voivat tukea tiimiytymistä, mutta älä rakenna tiimin muodostamista vapaa-ajan aktiviteettien varaan. Ei silloinkaan, vaikka hauskanpito tapahtuisi työajalla. Tämä epäonnistuu sen vuoksi, että tiettyyn tarkoitukseen muodostettavaa tiimiä ei voida muodostaa sen tietyn tarkoituksen ulkopuolella. Samaa tiimiä ei voi viedä toiseen kontekstiin ja odottaa, että se suoriutuu yhtä hyvin tässä uudessa kontekstissa. Vaikka pystyisitkin helposti siideri kourassa puhumaan suoraan, niin et silti välttämättä uskalla sanoa, mitä mieltä olet kaverisi tuottamasta koodista. Eikä joogatunnilla saavutettu rauha ja luottamus heijastu välttämättä tiimisi tekemiseen seuraavassa sprintissä.
 
-Mikä tahansa tiimi muodostetaan tekemällä töitä yhdessä. Luottamus toiseen kasvaa, kun näet kuinka hän toimii ja opit tuntemaan hänen näkökantaansa asioihin. [Aiemmassa postauksessa]({% link _posts/2022-04-19-kolme-tapaa-ehkaista-kommunikaatio-tiimissa.markdown %}) esittämäni tavat edistävät kommentoivaa ja arvostelevaa tapaa kommunikoida kehitystiimin jäsenten välillä. Pyri näiden sijaan mieluummin luomaan tiimissäsi kommunikointitilanteita, jotka ovat luonteeltaan keskustelevia. Alla muutamia keinoja, miten se onnistuu.
+<!-- excerpt-end -->
+
+Mikä tahansa tiimi muodostetaan tekemällä töitä yhdessä. Luottamus toiseen kasvaa, kun näet kuinka hän toimii ja opit tuntemaan hänen näkökantaansa asioihin. [Aiemmassa postauksessa]({% link _posts/2022-04-19-kolme-tapaa-ehkaista-kommunikaatio-tiimissa.md %}) esittämäni tavat edistävät kommentoivaa ja arvostelevaa tapaa kommunikoida kehitystiimin jäsenten välillä. Pyri näiden sijaan mieluummin luomaan tiimissäsi kommunikointitilanteita, jotka ovat luonteeltaan keskustelevia. Alla muutamia keinoja, miten se onnistuu.
 
 ## Muodosta yksi yhteinen tiimi
 

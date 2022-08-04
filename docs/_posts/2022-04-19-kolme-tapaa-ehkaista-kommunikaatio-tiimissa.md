@@ -6,6 +6,8 @@ readtime: "4min"
 ---
 Miltei jokaista ryhmää, jossa on mukana useampi kehittäjä, kutsutaan tiimiksi. Joskus se voi jäädä juuri sellaiseksi, ryhmäksi toisistaan irrallisia kehittäjiä. Nyt seuraa 2+1 (=3) vinkkiä, jolla voit ylläpitää tätä tilaa! Nämä saattavat perustua johonkin, olen varmasti kuullut näistä muualtakin ja aiheesta saattaa olla tutkittua tietoa, mutta tässä mennään nyt pitkälti kokemuspohjalta.
 
+<!-- excerpt-end -->
+
 Eli mikä siis nykyisessä tavassa mättää kommunikoinnin kannalta?
 
 ## Optimoi yksilön tuottama arvo

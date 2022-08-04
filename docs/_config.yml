@@ -30,6 +30,7 @@ linkedin_username: seppo-tarvainen-14b069134
 theme: minima
 plugins:
   - jekyll-feed
+excerpt_separator: <!-- excerpt-end -->
 
 # Exclude from processing.
 # The following items will not be processed, by default.
