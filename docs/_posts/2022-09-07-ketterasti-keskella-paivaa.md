@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ketterästi keskellä päivää"
-date:   2022-09-07 00:00:00 +0300
+date:   2022-09-14 12:30:00 +0300
 readtime: "7min"
 ---
 
