@@ -19,7 +19,7 @@ Pahempaa kuin tehdä tietämättömyyttään huonoja tai "väliaikaisia" ratkais
 
 ## Seniori vs. Sankari
 
-Se, että henkilö on ollut alalla pitkään, ei tee hänestä automaattisesti välinpitämätöntä sankarikehittäjää. Todellinen osaaja, eli ihan aito *Senior Software Engineer* edesauttaa tuotteen kehitystä laadultaan paremmaksi joka ikinen (työ)päivä. Ainoa paine, jota on hyödyllistä sietää, on kehitystiimin ulkopuolelta tuleva aikataulupaine. Tällaisen paineen edessä tulee kertoa rehellisesti oma arvio siitä, kuinka kauan haluttu ominaisuus vie aikaa. Kun sen jälkeen kysytään, "voiko sen tehdä nopeammin", niin vastauksen tulisi olla "ei (ainakaan määrittelyssä kuvatulla tavalla)" . 
+Se, että henkilö on ollut alalla pitkään, ei tee hänestä automaattisesti välinpitämätöntä sankarikehittäjää. Todellinen osaaja, eli ihan aito *Senior Software Engineer* edesauttaa tuotteen kehitystä laadultaan paremmaksi joka ikinen (työ)päivä. Ainoa paine, jota on hyödyllistä sietää, on kehitystiimin ulkopuolelta tuleva aikataulupaine. Tällaisen paineen edessä tulee kertoa rehellisesti oma arvio siitä, kuinka kauan haluttu ominaisuus vie aikaa. Kun sen jälkeen kysytään, "voiko sen tehdä nopeammin, jos tällä kertaa jätetään testausta vähemmälle", niin vastauksen tulisi olla "parempi on jättää ominaisuus tekemättä, jos sitä ei edes vaivauduta testaamaan." . 
 
 Seniori pyrkii tekniseen erinomaisuuteen. Hän aktiivisesti harjoittaa testivetoista kehittämistä, edesauttaa jatkuvaa integraatiota ja jatkuvaa toimittamista. Kun näiden minimivaatimukset tiimissä on saavutettu, seniorikehittäjä tutkii keinoja yhdessä tiimin kanssa miten niitä voidaan toteuttaa entistäkin paremmin. Seniori kokeilee, oppii kokeiluistaan, jakaa oppimaansa muille ja oppii muiden kanssa.
 
