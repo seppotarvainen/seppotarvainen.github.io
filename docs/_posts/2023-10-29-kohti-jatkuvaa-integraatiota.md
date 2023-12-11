@@ -9,7 +9,8 @@ Yksi merkittävimpiä valaistumisen kokemuksia ohjelmistokehityksessä oli ymmä
 
 <!-- excerpt-end -->
 
-Jos olet aikeissa toteuttaa jatkuvaa integraatiota, niin muutoksessa on syytä lähteä [minimistä](https://minimumcd.org/minimumcd/). Minimivaatimukset jatkuvalle integraatiolle ovat [^1]:
+Jos olet aikeissa toteuttaa jatkuvaa integraatiota, niin muutoksessa on syytä lähteä [minimistä](https://minimumcd.org/minimumcd/). Minimivaatimukset jatkuvalle integraatiolle ovat[^1]:
+
 - Päähaarassa kehittäminen (Trunk-based development)
 - Työ integroidaan päähaaraan vähintään päivittäin
 - Työ testataan automaattisesti ennen päähaaraan yhdistämistä
@@ -29,13 +30,13 @@ Git flow mahdollistaa sovelluksen yhtäaikaisen kehittämisen siten, ettei tekij
 
 Trunk-based development eli päähaarassa kehittäminen tarkoittaa sitä, että kehitys tapahtuu yhdessä versionhallinnan haarassa. Tämä tapa kannustaa pari- ja ryhmäkoodaamiseen ja käytännössä poistaa merge konfliktit kokonaan. Vaikeinta Trunk-based developmentissa on luopua vanhoista tottumuksista. Aiemmin ominaisuutta saattoi kehittää niin kauan kunnes se olisi valmis, mutta nyt kehitettävä toiminnallisuus majailee aikansa keskeneräisenä versiohallinnan päähaarassa. Tämän vuoksi TBD on muutakin kuin branchaus strategia, sillä se vaatii mahdollisuuden erottaa keskeneräisen työn julkaistavasta työstä.
 
-## Mekanismit kuntoon
+## Feature flagien toteutus
 
 Ennen kuin voisimme kehittää sovellustamme päähaarassa, tarvitsimme toimivat mekanismit ominaisuuksien piilottamiselle. Git flow’ssa tämä asia hoidettiin pääasiassa release-haarojen avulla, mutta uudessa tavassa release-haaroista oli päästävä eroon. Meidän ratkaisuksi muodostuivat feature-flagit.
- 
+
 Sovelluksestamme löytyi jo entuudestaan tavat piilottaa asioita asiakassovelluksen puolelta, mutta päätimme kuitenkin kirjoittaa sen kokonaan uusiksi. Emme tässä kohtaa halunneet tehdä ominaisuudesta dynaamista, vaan piilottaminen ja julkaisu tapahtuisivat tuotantoonviennin yhteydessä. Kirjoitimme kuitenkin ominaisuuden sellaiseksi, että featureflagit ja niiden käyttö tapahtuu yhdestä paikasta. Myös koodissa featureflageihin viitataan keskitetystä paikasta, jotta niiden käytön seuraaminen on helpompaa.
 
-Aiemmassa tavassamme featureflagit asuivat asiakassovelluksen env-määrityksissä, jotka asetettiin käännösaikana. Tästä syystä client tuli buildata oikeassa ympäristössä, jotta määritykset tulivat voimaan. Nyt sovelluksemme käännetään vain kerran ja kun ympäristömuuttujissa on tiedossa oikea profiili, saadaan oikeat featureflagit mukaan ympäristökohtaisesti.
+Aiemmassa tavassamme featureflagit asuivat asiakassovelluksen env-määrityksissä, jotka asetettiin käännösaikana. Tästä syystä client tuli buildata oikeassa ympäristössä, jotta määritykset tulivat voimaan. Nyt sovelluksemme käännetään vain kerran ja kun ympäristömuuttujissa on tiedossa oikea profiili, saadaan oikeat flagit mukaan ympäristökohtaisesti.
 
 ## Päivittäiset rutiinit kuntoon
 
