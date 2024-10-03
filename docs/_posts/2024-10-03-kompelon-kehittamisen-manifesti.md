@@ -7,6 +7,8 @@ readtime: "7min"
 
 Aion seuraavaksi vuodattaa. En tiedä miksi tämä niin paljon minua triggeröi, mutta selvästi tämän asian täytyy tulla nyt ulos. Luin aivan äsken nimittäin [asynkronisen sovelluskehityksen manifestin](https://asyncmanifesto.org/). Jos kyseinen dokumentti on sinulle tuttu, pidät sitä hienona juttuna ja haluat pitää sitä edelleen hienona juttuna, älä lue yhtään pidemmälle.
 
+<!-- excerpt-end -->
+
 Nimittäin, se ei ole hieno juttu. Myönnytyksenä annan alkuun sen, että asynkroninen ja omassa rauhassa tehtävä työ sopii kahteen tapaukseen:
 
 - Open source -projektit. Näissä kehittäjät tekevät työtä usein ilman palkkaa tai hyvin minimaalisilla korvauksilla ta lahjoituksilla. Projektien luonne on se, että kuka tahansa saa koodia muokata ja lisätä oman muutosehdotuksen. Tämän jälkeen projektin ylläpitäjä, joka on usein työkalun alkuperäinen kehittäjä joko hyväksyy, hylkää tai antaa kommentteja muutosehdotukseen. Tällaisessa ympäristössä ei vallitse suuri luottamus, jolloin tarvitaan ylläpitäjä tai valitut osallistujat, joilla on valta päättää toteutuksen laadusta.
