@@ -19,7 +19,7 @@ Nimittäin, se ei ole hieno juttu. Myönnytyksenä annan alkuun sen, että asynk
 
 Sitten niihin pariin huomioon manifestissa.
 
-### Huomio nro 1
+### Huomio 1
 
 > It's time for a 21st century successor to [Agile](http://agilemanifesto.org/)
 > 
@@ -38,7 +38,7 @@ Vertaa:
 
 Ylläolevasta seuraakin jo
 
-### Huomio nro 2
+### Huomio 2
 
 Eli kaikki siis lukevat kaikki projektin dokumentit, eli kaikki asiat mitä on päätetty sovelluksen +5 vuoden elinkaaren aikana? Ei muuten valitettavasti onnistu. Ja vaikka ne luettaisiin, ei niitä sisäistetä. Itsekin olen dokumentoinut käytänteitä ja siinä ei ole mitään vikaa. Sitä itse dokumenttia tärkeämpää on kuitenkin se, että asiat ovat yhdessä päätettyjä ja kaikki ovat niistä samaa mieltä. Jos eivät ole, niistä keskustellaan ja korjataan tarvittaessa. Miten tuollaisen dokumentin voi yhdessä kirjoittaa? Siis vaikka kokouksessa! Kun asioista päätetään yhdessä, siitä muodostuu paljon parempi muistijälki kuin dokumentin lukemisesta.
 
