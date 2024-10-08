@@ -15,6 +15,8 @@ Nimittäin, se ei ole hieno juttu. Myönnytyksenä annan alkuun sen, että asynk
 
 - Projektit, joissa tiimin jäsenet ovat eri aikavyöhykkeillä. On selvää, että jos toinen on nukkumassa, niin hänelle ei voi soittaa keskellä yötä. Ketään ei kiinnosta muuttujan nimet kello neljä yöllä. Silloin muutosehdotus kannattaa vain tehdä ja odottaa, että toiset kehittäjät sen hyväksyvät tai keskustelevat siitä jotain kanavaa pitkin.
 
+Näiden lisäksi on sallittua, joskus jopa tehokastakin tehdä töitä asynkronisesti, mutta pääasiallisesti synkroninen tapa on parempi.
+
 ## Muutamia huomioita
 
 Sitten niihin pariin huomioon manifestissa.
@@ -42,7 +44,7 @@ Ylläolevasta seuraakin jo
 
 Eli kaikki siis lukevat kaikki projektin dokumentit, eli kaikki asiat mitä on päätetty sovelluksen +5 vuoden elinkaaren aikana? Ei muuten valitettavasti onnistu. Ja vaikka ne luettaisiin, ei niitä sisäistetä. Itsekin olen dokumentoinut käytänteitä ja siinä ei ole mitään vikaa. Sitä itse dokumenttia tärkeämpää on kuitenkin se, että asiat ovat yhdessä päätettyjä ja kaikki ovat niistä samaa mieltä. Jos eivät ole, niistä keskustellaan ja korjataan tarvittaessa. Miten tuollaisen dokumentin voi yhdessä kirjoittaa? Siis vaikka kokouksessa! Kun asioista päätetään yhdessä, siitä muodostuu paljon parempi muistijälki kuin dokumentin lukemisesta.
 
-Toisekseen se on ihan ok, jos on olemassa hiljaista tietoa, kunhan se on tiimin kesken jaettua. Kun työtä tehdään jatkuvasti yhdessä (ei siis yksin ja eristyksissä) tieto jakautuu todella tehokkaasti. Siis vieläpä paljon paremmin kuin asynkronisella viestinnällä tai vaikka merge requestien kautta. Jos tieto koetaan dokumentoinnin arvoiseksi, niin kyllä sen voi dokumentoida. "Tribal knowledge" on siitä parempi kuin dokumentaatio, että se on sisäistettyä tietoa, joka puolestaan vaikuttaa toimintaan. Pelkällä dokumentaatiolla ei tee yhtään mitään, jos se ei johda jonkin tiedon sisäistämiseen ja sitä kautta toimintaan. Tavoitteena on siis saada tiimiin sisäistettyä tietoa.
+Toisekseen se on ihan hyväksyttävää, jos on olemassa hiljaista tietoa, kunhan se on tiimin kesken jaettua. Kun työtä tehdään jatkuvasti yhdessä (ei siis yksin ja eristyksissä) tieto jakautuu todella tehokkaasti. Siis vieläpä paljon paremmin kuin asynkronisella viestinnällä tai vaikka merge requestien kautta. Jos tieto koetaan dokumentoinnin arvoiseksi, niin kyllä sen voi dokumentoida. "Tribal knowledge" on siitä parempi kuin dokumentaatio, että se on sisäistettyä tietoa, joka puolestaan vaikuttaa toimintaan. Pelkällä dokumentaatiolla ei tee yhtään mitään, jos se ei johda jonkin tiedon sisäistämiseen ja sitä kautta toimintaan. Tavoitteena on siis saada tiimiin sisäistettyä tietoa.
 
 Seuraavaksi tulee dokumentissa pari ihan hyvää kohtaa:
 
@@ -50,7 +52,7 @@ Seuraavaksi tulee dokumentissa pari ihan hyvää kohtaa:
 > 
 > - Flexibility in prioritization over detailed planning
 
-Nämä on ihan OK. Ei kannata pakottaa toimistolle. Jos joku työntekijäsi on aina etätöissä eivätkä työt onnistu, niin voin kertoa salaisuuden: hänen työnsä on aivan yhtä heikkoa toimistollakin. Joustavuuskin on hyvä arvo, priorisoinnin pitää voida muuttua. Sitä kuitenkin kannattaa tehdä tiiviissä yhteistyössä asiakkaan kanssa. Joskus kirjallinen viestintä on yksinkertaisesti todella hidasta, jolloin kokouskin voi olla paikallaan.
+Nämä ovat ihan OK. Ei kannata pakottaa toimistolle. Jos joku työntekijäsi on aina etätöissä eivätkä työt onnistu, niin voin kertoa salaisuuden: hänen työnsä on aivan yhtä heikkoa toimistollakin. Joustavuuskin on hyvä arvo, priorisoinnin pitää voida muuttua. Sitä kuitenkin kannattaa tehdä tiiviissä yhteistyössä asiakkaan kanssa. Joskus kirjallinen viestintä on yksinkertaisesti todella hidasta, jolloin kokouskin voi olla paikallaan.
 
 ### Huomio 3
 
