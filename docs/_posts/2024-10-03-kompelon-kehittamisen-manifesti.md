@@ -52,7 +52,7 @@ Seuraavaksi tulee dokumentissa pari ihan hyvää kohtaa:
 > 
 > - Flexibility in prioritization over detailed planning
 
-Nämä ovat ihan OK. Ei kannata pakottaa toimistolle. Jos joku työntekijäsi on aina etätöissä eivätkä työt onnistu, niin voin kertoa salaisuuden: hänen työnsä on aivan yhtä heikkoa toimistollakin. Joustavuuskin on hyvä arvo, priorisoinnin pitää voida muuttua. Sitä kuitenkin kannattaa tehdä tiiviissä yhteistyössä asiakkaan kanssa. Joskus kirjallinen viestintä on yksinkertaisesti todella hidasta, jolloin kokouskin voi olla paikallaan.
+Nämä ovat ihan OK. Ei kannata pakottaa toimistolle. Jos joku työntekijäsi on aina etätöissä eivätkä työt onnistu, niin voin kertoa salaisuuden: hänen työnsä on aivan yhtä heikkoa toimistollakin. Joustavuuskin on hyvä arvo, priorisoinnin pitää voida muuttua. Sitä kuitenkin kannattaa tehdä tiiviissä yhteistyössä asiakkaan kanssa. Joskus kirjallinen viestintä on yksinkertaisesti todella hidasta, jolloin lyhyt puhelu tai etäpalaverikin voi olla paikallaan.
 
 ### Huomio 3
 
@@ -120,7 +120,7 @@ Vähän vastaava kuin huomio 5. Priorisointi saa tulla muualtakin kuin PO:lta. P
 > 
 > Discourage one-size-fits-all space management. Some people work better in crowds, others work better at home. Let people decide for themselves.
 
-Yhdellä lauseella ylläoleva itsestäänselvyys: tarjoa sellain tila, joka sopii kulloiseenkin tekemiseen. Saa tehdä myös etänä, useimpiin tapauksiin sekin sopii.
+Yhdellä lauseella ylläoleva itsestäänselvyys: tarjoa sellainen tila, joka sopii kulloiseenkin tekemiseen. Saa tehdä myös etänä, useimpiin tapauksiin sekin sopii.
 
 ### Huomio 9
 
